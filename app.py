@@ -69,7 +69,7 @@ def consultar_hora_mongodb():
 
 
 # Título principal
-st.title("🚀 App Streamlit de MARX en Azure Web App + Docker + ACR + MongoDB Atlas")
+st.title("🚀 App Streamlit de MARX v2 probando CI/CD en Azure Web App + Docker + ACR + MongoDB Atlas")
 st.markdown("---")
 
 st.info(
